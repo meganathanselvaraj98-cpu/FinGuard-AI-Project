@@ -1,0 +1,51 @@
+services:
+  api:
+    build: .
+    restart: unless-stopped
+    command: python -m uvicorn backend.api:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    environment: &finguard_environment
+      TURSO_DATABASE_URL: ${TURSO_DATABASE_URL:-}
+      TURSO_AUTH_TOKEN: ${TURSO_AUTH_TOKEN:-}
+      SECRET_KEY: ${SECRET_KEY:-}
+      HASH_PEPPER: ${HASH_PEPPER:-}
+      FIELD_ENCRYPTION_KEY: ${FIELD_ENCRYPTION_KEY:-}
+      ADMIN_EMAIL: ${ADMIN_EMAIL:-}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      COOKIE_SECURE: ${COOKIE_SECURE:-false}
+    volumes:
+      - finguard_data:/app/data
+      - finguard_reports:/app/reports
+      - finguard_models:/app/models/runtime
+      - finguard_logs:/app/logs
+      - finguard_backups:/app/backups
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/v1/health', timeout=3)"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  web:
+    build: .
+    restart: unless-stopped
+    command: python -m streamlit run app.py --server.address=0.0.0.0 --server.port=8501
+    ports:
+      - "8501:8501"
+    environment: *finguard_environment
+    volumes:
+      - finguard_data:/app/data
+      - finguard_reports:/app/reports
+      - finguard_models:/app/models/runtime
+      - finguard_logs:/app/logs
+      - finguard_backups:/app/backups
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  finguard_data:
+  finguard_reports:
+  finguard_models:
+  finguard_logs:
+  finguard_backups:

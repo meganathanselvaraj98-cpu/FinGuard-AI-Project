@@ -1,0 +1,312 @@
+transaction_id,transaction_date,description,transaction_type,amount,balance_after,category,payment_mode,merchant
+SAL00001,2025-07-02,Monthly salary credit,INCOME,48476,73476.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00005,2025-07-03,Healthcare payment at Pharmacy / Clinic,EXPENSE,380,69749.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00009,2025-07-03,Shopping payment at Retail Store,EXPENSE,3815,63001.0,Shopping,Card,Retail Store
+TXN00015,2025-07-04,Shopping payment at Retail Store,EXPENSE,3805,53891.0,Shopping,Card,Retail Store
+TXN00004,2025-07-05,Food & Dining payment at Cafe / Restaurant,EXPENSE,1236,70129.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00016,2025-07-06,Education payment at Course / Books,EXPENSE,2496,51395.0,Education,Net Banking,Course / Books
+TXN00011,2025-07-07,Entertainment payment at Movies / Events,EXPENSE,769,60723.0,Entertainment,Card,Movies / Events
+SUB00021,2025-07-09,Streaming subscription,EXPENSE,499,44832.0,Subscriptions,Card,StreamPlus
+TXN00019,2025-07-09,Entertainment payment at Movies / Events,EXPENSE,1382,45544.0,Entertainment,Card,Movies / Events
+TXN00002,2025-07-10,Groceries payment at FreshMart,EXPENSE,1526,71950.0,Groceries,UPI,FreshMart
+TXN00006,2025-07-10,Food & Dining payment at Cafe / Restaurant,EXPENSE,567,69182.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00012,2025-07-13,Utilities payment at Electricity / Mobile,EXPENSE,1863,58860.0,Utilities,Net Banking,Electricity / Mobile
+TXN00014,2025-07-14,Food & Dining payment at Cafe / Restaurant,EXPENSE,855,57696.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00013,2025-07-15,Food & Dining payment at Cafe / Restaurant,EXPENSE,309,58551.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00010,2025-07-16,Transport payment at Ride / Fuel,EXPENSE,1509,61492.0,Transport,UPI,Ride / Fuel
+TXN00008,2025-07-17,Healthcare payment at Pharmacy / Clinic,EXPENSE,1152,66816.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00017,2025-07-20,Healthcare payment at Pharmacy / Clinic,EXPENSE,572,50823.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00018,2025-07-23,Shopping payment at Retail Store,EXPENSE,3897,46926.0,Shopping,Card,Retail Store
+TXN00020,2025-07-24,Food & Dining payment at Cafe / Restaurant,EXPENSE,213,45331.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00007,2025-07-25,Groceries payment at FreshMart,EXPENSE,1214,67968.0,Groceries,UPI,FreshMart
+TXN00003,2025-07-26,Utilities payment at Electricity / Mobile,EXPENSE,585,71365.0,Utilities,Net Banking,Electricity / Mobile
+SAL00022,2025-08-02,Monthly salary credit,INCOME,41733,86565.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00033,2025-08-04,Groceries payment at FreshMart,EXPENSE,1338,72476.0,Groceries,UPI,FreshMart
+TXN00023,2025-08-06,Food & Dining payment at Cafe / Restaurant,EXPENSE,596,85969.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00044,2025-08-07,Groceries payment at FreshMart,EXPENSE,849,59330.0,Groceries,UPI,FreshMart
+SUB00045,2025-08-09,Streaming subscription,EXPENSE,499,58831.0,Subscriptions,Card,StreamPlus
+TXN00034,2025-08-11,Entertainment payment at Movies / Events,EXPENSE,1021,71455.0,Entertainment,Card,Movies / Events
+TXN00038,2025-08-11,Education payment at Course / Books,EXPENSE,885,67463.0,Education,Net Banking,Course / Books
+TXN00032,2025-08-13,Utilities payment at Electricity / Mobile,EXPENSE,1702,73814.0,Utilities,Net Banking,Electricity / Mobile
+TXN00025,2025-08-14,Entertainment payment at Movies / Events,EXPENSE,533,84048.0,Entertainment,Card,Movies / Events
+TXN00041,2025-08-14,Healthcare payment at Pharmacy / Clinic,EXPENSE,1885,61434.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00030,2025-08-17,Utilities payment at Electricity / Mobile,EXPENSE,634,76871.0,Utilities,Net Banking,Electricity / Mobile
+TXN00024,2025-08-17,Healthcare payment at Pharmacy / Clinic,EXPENSE,1388,84581.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00042,2025-08-19,Utilities payment at Electricity / Mobile,EXPENSE,583,60851.0,Utilities,Net Banking,Electricity / Mobile
+TXN00035,2025-08-21,Food & Dining payment at Cafe / Restaurant,EXPENSE,552,70903.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00040,2025-08-21,Shopping payment at Retail Store,EXPENSE,3559,63319.0,Shopping,Card,Retail Store
+TXN00036,2025-08-23,Entertainment payment at Movies / Events,EXPENSE,635,70268.0,Entertainment,Card,Movies / Events
+TXN00028,2025-08-23,Food & Dining payment at Cafe / Restaurant,EXPENSE,1367,78678.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00031,2025-08-23,Healthcare payment at Pharmacy / Clinic,EXPENSE,1355,75516.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00037,2025-08-23,Education payment at Course / Books,EXPENSE,1920,68348.0,Education,Net Banking,Course / Books
+TXN00027,2025-08-24,Shopping payment at Retail Store,EXPENSE,3374,80045.0,Shopping,Card,Retail Store
+TXN00026,2025-08-24,Entertainment payment at Movies / Events,EXPENSE,629,83419.0,Entertainment,Card,Movies / Events
+TXN00029,2025-08-26,Transport payment at Ride / Fuel,EXPENSE,1173,77505.0,Transport,UPI,Ride / Fuel
+TXN00039,2025-08-26,Transport payment at Ride / Fuel,EXPENSE,585,66878.0,Transport,UPI,Ride / Fuel
+TXN00043,2025-08-27,Education payment at Course / Books,EXPENSE,672,60179.0,Education,Net Banking,Course / Books
+SAL00046,2025-09-02,Monthly salary credit,INCOME,48280,107111.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00061,2025-09-04,Shopping payment at Retail Store,EXPENSE,1480,81709.0,Shopping,Card,Retail Store
+TXN00055,2025-09-06,Transport payment at Ride / Fuel,EXPENSE,1119,91518.0,Transport,UPI,Ride / Fuel
+TXN00066,2025-09-08,Education payment at Course / Books,EXPENSE,2551,75840.0,Education,Net Banking,Course / Books
+SUB00067,2025-09-09,Streaming subscription,EXPENSE,499,75341.0,Subscriptions,Card,StreamPlus
+TXN00052,2025-09-12,Entertainment payment at Movies / Events,EXPENSE,428,95012.0,Entertainment,Card,Movies / Events
+TXN00057,2025-09-14,Utilities payment at Electricity / Mobile,EXPENSE,613,86958.0,Utilities,Net Banking,Electricity / Mobile
+TXN00060,2025-09-14,Groceries payment at FreshMart,EXPENSE,858,83189.0,Groceries,UPI,FreshMart
+TXN00047,2025-09-15,Healthcare payment at Pharmacy / Clinic,EXPENSE,510,106601.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00053,2025-09-17,Healthcare payment at Pharmacy / Clinic,EXPENSE,897,94115.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00059,2025-09-18,Groceries payment at FreshMart,EXPENSE,1727,84047.0,Groceries,UPI,FreshMart
+TXN00048,2025-09-19,Healthcare payment at Pharmacy / Clinic,EXPENSE,2167,104434.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00054,2025-09-19,Groceries payment at FreshMart,EXPENSE,1478,92637.0,Groceries,UPI,FreshMart
+TXN00049,2025-09-20,Shopping payment at Retail Store,EXPENSE,4477,99957.0,Shopping,Card,Retail Store
+TXN00062,2025-09-21,Utilities payment at Electricity / Mobile,EXPENSE,2098,79611.0,Utilities,Net Banking,Electricity / Mobile
+TXN00056,2025-09-23,Shopping payment at Retail Store,EXPENSE,3947,87571.0,Shopping,Card,Retail Store
+TXN00051,2025-09-23,Shopping payment at Retail Store,EXPENSE,3648,95440.0,Shopping,Card,Retail Store
+TXN00050,2025-09-24,Groceries payment at FreshMart,EXPENSE,869,99088.0,Groceries,UPI,FreshMart
+TXN00065,2025-09-24,Transport payment at Ride / Fuel,EXPENSE,342,78391.0,Transport,UPI,Ride / Fuel
+TXN00063,2025-09-26,Food & Dining payment at Cafe / Restaurant,EXPENSE,295,79316.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00058,2025-09-27,Transport payment at Ride / Fuel,EXPENSE,1184,85774.0,Transport,UPI,Ride / Fuel
+TXN00064,2025-09-27,Education payment at Course / Books,EXPENSE,583,78733.0,Education,Net Banking,Course / Books
+SAL00068,2025-10-02,Monthly salary credit,INCOME,42342,117683.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00086,2025-10-04,Groceries payment at FreshMart,EXPENSE,803,95201.0,Groceries,UPI,FreshMart
+TXN00075,2025-10-05,Utilities payment at Electricity / Mobile,EXPENSE,314,110145.0,Utilities,Net Banking,Electricity / Mobile
+TXN00076,2025-10-05,Groceries payment at FreshMart,EXPENSE,1337,108808.0,Groceries,UPI,FreshMart
+TXN00077,2025-10-05,Groceries payment at FreshMart,EXPENSE,1753,107055.0,Groceries,UPI,FreshMart
+TXN00090,2025-10-08,Transport payment at Ride / Fuel,EXPENSE,944,90591.0,Transport,UPI,Ride / Fuel
+TXN00088,2025-10-09,Food & Dining payment at Cafe / Restaurant,EXPENSE,629,92933.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00082,2025-10-09,Education payment at Course / Books,EXPENSE,1967,100185.0,Education,Net Banking,Course / Books
+SUB00095,2025-10-09,Streaming subscription,EXPENSE,499,85666.0,Subscriptions,Card,StreamPlus
+TXN00091,2025-10-10,Shopping payment at Retail Store,EXPENSE,2394,88197.0,Shopping,Card,Retail Store
+TXN00072,2025-10-10,Education payment at Course / Books,EXPENSE,795,112232.0,Education,Net Banking,Course / Books
+TXN00070,2025-10-12,Utilities payment at Electricity / Mobile,EXPENSE,1760,114806.0,Utilities,Net Banking,Electricity / Mobile
+TXN00073,2025-10-13,Utilities payment at Electricity / Mobile,EXPENSE,431,111801.0,Utilities,Net Banking,Electricity / Mobile
+TXN00084,2025-10-16,Healthcare payment at Pharmacy / Clinic,EXPENSE,1701,98166.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00089,2025-10-17,Utilities payment at Electricity / Mobile,EXPENSE,1398,91535.0,Utilities,Net Banking,Electricity / Mobile
+TXN00071,2025-10-17,Healthcare payment at Pharmacy / Clinic,EXPENSE,1779,113027.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00079,2025-10-20,Education payment at Course / Books,EXPENSE,1177,105008.0,Education,Net Banking,Course / Books
+TXN00069,2025-10-20,Healthcare payment at Pharmacy / Clinic,EXPENSE,1117,116566.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00074,2025-10-21,Groceries payment at FreshMart,EXPENSE,1342,110459.0,Groceries,UPI,FreshMart
+TXN00080,2025-10-21,Transport payment at Ride / Fuel,EXPENSE,1561,103447.0,Transport,UPI,Ride / Fuel
+TXN00093,2025-10-23,Food & Dining payment at Cafe / Restaurant,EXPENSE,223,86947.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00083,2025-10-24,Food & Dining payment at Cafe / Restaurant,EXPENSE,318,99867.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00078,2025-10-24,Utilities payment at Electricity / Mobile,EXPENSE,870,106185.0,Utilities,Net Banking,Electricity / Mobile
+TXN00085,2025-10-26,Healthcare payment at Pharmacy / Clinic,EXPENSE,2162,96004.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00094,2025-10-27,Groceries payment at FreshMart,EXPENSE,782,86165.0,Groceries,UPI,FreshMart
+TXN00092,2025-10-28,Food & Dining payment at Cafe / Restaurant,EXPENSE,1027,87170.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00087,2025-10-28,Healthcare payment at Pharmacy / Clinic,EXPENSE,1639,93562.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00081,2025-10-28,Education payment at Course / Books,EXPENSE,1295,102152.0,Education,Net Banking,Course / Books
+SAL00096,2025-11-02,Monthly salary credit,INCOME,51905,137571.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00104,2025-11-04,Groceries payment at FreshMart,EXPENSE,1684,126934.0,Groceries,UPI,FreshMart
+TXN00103,2025-11-04,Shopping payment at Retail Store,EXPENSE,1391,128618.0,Shopping,Card,Retail Store
+TXN00107,2025-11-05,Food & Dining payment at Cafe / Restaurant,EXPENSE,500,123886.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00102,2025-11-09,Education payment at Course / Books,EXPENSE,934,130009.0,Education,Net Banking,Course / Books
+SUB00118,2025-11-09,Streaming subscription,EXPENSE,499,114440.0,Subscriptions,Card,StreamPlus
+TXN00111,2025-11-09,Entertainment payment at Movies / Events,EXPENSE,734,120530.0,Entertainment,Card,Movies / Events
+TXN00109,2025-11-10,Food & Dining payment at Cafe / Restaurant,EXPENSE,1286,121999.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00100,2025-11-11,Groceries payment at FreshMart,EXPENSE,1999,132411.0,Groceries,UPI,FreshMart
+TXN00117,2025-11-11,Utilities payment at Electricity / Mobile,EXPENSE,1336,114939.0,Utilities,Net Banking,Electricity / Mobile
+TXN00112,2025-11-11,Entertainment payment at Movies / Events,EXPENSE,688,119842.0,Entertainment,Card,Movies / Events
+TXN00114,2025-11-13,Shopping payment at Retail Store,EXPENSE,2372,116684.0,Shopping,Card,Retail Store
+TXN00099,2025-11-15,Groceries payment at FreshMart,EXPENSE,1074,134410.0,Groceries,UPI,FreshMart
+TXN00108,2025-11-15,Food & Dining payment at Cafe / Restaurant,EXPENSE,601,123285.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00098,2025-11-15,Education payment at Course / Books,EXPENSE,1175,135484.0,Education,Net Banking,Course / Books
+TXN00101,2025-11-16,Education payment at Course / Books,EXPENSE,1468,130943.0,Education,Net Banking,Course / Books
+TXN00110,2025-11-16,Groceries payment at FreshMart,EXPENSE,735,121264.0,Groceries,UPI,FreshMart
+TXN00115,2025-11-17,Food & Dining payment at Cafe / Restaurant,EXPENSE,139,116545.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00097,2025-11-18,Transport payment at Ride / Fuel,EXPENSE,912,136659.0,Transport,UPI,Ride / Fuel
+TXN00105,2025-11-19,Groceries payment at FreshMart,EXPENSE,2352,124582.0,Groceries,UPI,FreshMart
+TXN00106,2025-11-19,Transport payment at Ride / Fuel,EXPENSE,196,124386.0,Transport,UPI,Ride / Fuel
+TXN00116,2025-11-20,Food & Dining payment at Cafe / Restaurant,EXPENSE,270,116275.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00113,2025-11-24,Healthcare payment at Pharmacy / Clinic,EXPENSE,786,119056.0,Healthcare,UPI,Pharmacy / Clinic
+SAL00119,2025-12-02,Monthly salary credit,INCOME,40170,154610.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00130,2025-12-04,Shopping payment at Retail Store,EXPENSE,4208,136588.0,Shopping,Card,Retail Store
+TXN00135,2025-12-06,Healthcare payment at Pharmacy / Clinic,EXPENSE,289,131916.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00141,2025-12-06,Utilities payment at Electricity / Mobile,EXPENSE,1665,123427.0,Utilities,Net Banking,Electricity / Mobile
+TXN00138,2025-12-07,Transport payment at Ride / Fuel,EXPENSE,960,128619.0,Transport,UPI,Ride / Fuel
+SUB00143,2025-12-09,Streaming subscription,EXPENSE,499,121131.0,Subscriptions,Card,StreamPlus
+TXN00140,2025-12-09,Groceries payment at FreshMart,EXPENSE,1865,125092.0,Groceries,UPI,FreshMart
+TXN00124,2025-12-11,Food & Dining payment at Cafe / Restaurant,EXPENSE,395,147818.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00131,2025-12-11,Food & Dining payment at Cafe / Restaurant,EXPENSE,987,135601.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00133,2025-12-11,Transport payment at Ride / Fuel,EXPENSE,1384,133803.0,Transport,UPI,Ride / Fuel
+TXN00126,2025-12-12,Transport payment at Ride / Fuel,EXPENSE,637,146842.0,Transport,UPI,Ride / Fuel
+TXN00127,2025-12-13,Utilities payment at Electricity / Mobile,EXPENSE,1769,145073.0,Utilities,Net Banking,Electricity / Mobile
+TXN00132,2025-12-13,Groceries payment at FreshMart,EXPENSE,414,135187.0,Groceries,UPI,FreshMart
+TXN00120,2025-12-14,Food & Dining payment at Cafe / Restaurant,EXPENSE,620,153990.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00139,2025-12-14,Groceries payment at FreshMart,EXPENSE,1662,126957.0,Groceries,UPI,FreshMart
+TXN00121,2025-12-17,Shopping payment at Retail Store,EXPENSE,1146,152844.0,Shopping,Card,Retail Store
+TXN00134,2025-12-17,Transport payment at Ride / Fuel,EXPENSE,1598,132205.0,Transport,UPI,Ride / Fuel
+TXN00129,2025-12-18,Shopping payment at Retail Store,EXPENSE,2570,140796.0,Shopping,Card,Retail Store
+TXN00142,2025-12-20,Entertainment payment at Movies / Events,EXPENSE,1797,121630.0,Entertainment,Card,Movies / Events
+TXN00136,2025-12-20,Food & Dining payment at Cafe / Restaurant,EXPENSE,425,131491.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00137,2025-12-21,Groceries payment at FreshMart,EXPENSE,1912,129579.0,Groceries,UPI,FreshMart
+TXN00128,2025-12-23,Utilities payment at Electricity / Mobile,EXPENSE,1707,143366.0,Utilities,Net Banking,Electricity / Mobile
+TXN00123,2025-12-24,Groceries payment at FreshMart,EXPENSE,1626,148213.0,Groceries,UPI,FreshMart
+TXN00125,2025-12-26,Food & Dining payment at Cafe / Restaurant,EXPENSE,339,147479.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00122,2025-12-28,Shopping payment at Retail Store,EXPENSE,3005,149839.0,Shopping,Card,Retail Store
+SAL00144,2026-01-02,Monthly salary credit,INCOME,44658,165789.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00146,2026-01-03,Transport payment at Ride / Fuel,EXPENSE,924,164301.0,Transport,UPI,Ride / Fuel
+TXN00153,2026-01-03,Utilities payment at Electricity / Mobile,EXPENSE,756,157234.0,Utilities,Net Banking,Electricity / Mobile
+TXN00164,2026-01-04,Utilities payment at Electricity / Mobile,EXPENSE,821,140222.0,Utilities,Net Banking,Electricity / Mobile
+TXN00155,2026-01-05,Shopping payment at Retail Store,EXPENSE,4040,152078.0,Shopping,Card,Retail Store
+TXN00168,2026-01-06,Entertainment payment at Movies / Events,EXPENSE,1558,136567.0,Entertainment,Card,Movies / Events
+TXN00149,2026-01-06,Transport payment at Ride / Fuel,EXPENSE,1516,159931.0,Transport,UPI,Ride / Fuel
+TXN00171,2026-01-07,Shopping payment at Retail Store,EXPENSE,2770,129634.0,Shopping,Card,Retail Store
+TXN00145,2026-01-08,Transport payment at Ride / Fuel,EXPENSE,564,165225.0,Transport,UPI,Ride / Fuel
+SUB00172,2026-01-09,Streaming subscription,EXPENSE,499,129135.0,Subscriptions,Card,StreamPlus
+TXN00148,2026-01-11,Healthcare payment at Pharmacy / Clinic,EXPENSE,1266,161447.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00158,2026-01-11,Groceries payment at FreshMart,EXPENSE,872,146822.0,Groceries,UPI,FreshMart
+TXN00159,2026-01-11,Transport payment at Ride / Fuel,EXPENSE,1269,145553.0,Transport,UPI,Ride / Fuel
+TXN00169,2026-01-12,Shopping payment at Retail Store,EXPENSE,2577,133990.0,Shopping,Card,Retail Store
+TXN00154,2026-01-13,Utilities payment at Electricity / Mobile,EXPENSE,1116,156118.0,Utilities,Net Banking,Electricity / Mobile
+TXN00147,2026-01-13,Transport payment at Ride / Fuel,EXPENSE,1588,162713.0,Transport,UPI,Ride / Fuel
+TXN00157,2026-01-13,Healthcare payment at Pharmacy / Clinic,EXPENSE,2446,147694.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00170,2026-01-15,Healthcare payment at Pharmacy / Clinic,EXPENSE,1586,132404.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00166,2026-01-16,Utilities payment at Electricity / Mobile,EXPENSE,1045,138921.0,Utilities,Net Banking,Electricity / Mobile
+TXN00151,2026-01-17,Utilities payment at Electricity / Mobile,EXPENSE,708,158815.0,Utilities,Net Banking,Electricity / Mobile
+TXN00150,2026-01-18,Healthcare payment at Pharmacy / Clinic,EXPENSE,408,159523.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00165,2026-01-19,Healthcare payment at Pharmacy / Clinic,EXPENSE,256,139966.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00163,2026-01-21,Food & Dining payment at Cafe / Restaurant,EXPENSE,908,141043.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00162,2026-01-22,Entertainment payment at Movies / Events,EXPENSE,1093,141951.0,Entertainment,Card,Movies / Events
+TXN00167,2026-01-22,Food & Dining payment at Cafe / Restaurant,EXPENSE,796,138125.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00160,2026-01-22,Groceries payment at FreshMart,EXPENSE,844,144709.0,Groceries,UPI,FreshMart
+TXN00156,2026-01-23,Shopping payment at Retail Store,EXPENSE,1938,150140.0,Shopping,Card,Retail Store
+TXN00161,2026-01-26,Healthcare payment at Pharmacy / Clinic,EXPENSE,1665,143044.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00152,2026-01-28,Entertainment payment at Movies / Events,EXPENSE,825,157990.0,Entertainment,Card,Movies / Events
+SAL00173,2026-02-02,Monthly salary credit,INCOME,41143,170278.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00185,2026-02-04,Transport payment at Ride / Fuel,EXPENSE,130,156157.0,Transport,UPI,Ride / Fuel
+TXN00194,2026-02-06,Utilities payment at Electricity / Mobile,EXPENSE,2178,144520.0,Utilities,Net Banking,Electricity / Mobile
+TXN00192,2026-02-08,Healthcare payment at Pharmacy / Clinic,EXPENSE,1146,147203.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00184,2026-02-09,Utilities payment at Electricity / Mobile,EXPENSE,1951,156287.0,Utilities,Net Banking,Electricity / Mobile
+SUB00198,2026-02-09,Streaming subscription,EXPENSE,499,138954.0,Subscriptions,Card,StreamPlus
+TXN00183,2026-02-12,Utilities payment at Electricity / Mobile,EXPENSE,1677,158238.0,Utilities,Net Banking,Electricity / Mobile
+TXN00176,2026-02-12,Groceries payment at FreshMart,EXPENSE,1644,165509.0,Groceries,UPI,FreshMart
+TXN00189,2026-02-15,Healthcare payment at Pharmacy / Clinic,EXPENSE,2274,149787.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00187,2026-02-16,Food & Dining payment at Cafe / Restaurant,EXPENSE,1052,153832.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00178,2026-02-17,Entertainment payment at Movies / Events,EXPENSE,1152,163177.0,Entertainment,Card,Movies / Events
+TXN00197,2026-02-17,Entertainment payment at Movies / Events,EXPENSE,1746,139453.0,Entertainment,Card,Movies / Events
+TXN00179,2026-02-19,Education payment at Course / Books,EXPENSE,1175,162002.0,Education,Net Banking,Course / Books
+TXN00181,2026-02-19,Food & Dining payment at Cafe / Restaurant,EXPENSE,701,160306.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00196,2026-02-20,Education payment at Course / Books,EXPENSE,2475,141199.0,Education,Net Banking,Course / Books
+TXN00193,2026-02-20,Education payment at Course / Books,EXPENSE,505,146698.0,Education,Net Banking,Course / Books
+TXN00175,2026-02-20,Shopping payment at Retail Store,EXPENSE,2163,167153.0,Shopping,Card,Retail Store
+TXN00174,2026-02-22,Healthcare payment at Pharmacy / Clinic,EXPENSE,962,169316.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00186,2026-02-22,Utilities payment at Electricity / Mobile,EXPENSE,1273,154884.0,Utilities,Net Banking,Electricity / Mobile
+TXN00190,2026-02-23,Utilities payment at Electricity / Mobile,EXPENSE,602,149185.0,Utilities,Net Banking,Electricity / Mobile
+TXN00180,2026-02-24,Education payment at Course / Books,EXPENSE,995,161007.0,Education,Net Banking,Course / Books
+TXN00188,2026-02-25,Utilities payment at Electricity / Mobile,EXPENSE,1771,152061.0,Utilities,Net Banking,Electricity / Mobile
+TXN00182,2026-02-27,Entertainment payment at Movies / Events,EXPENSE,391,159915.0,Entertainment,Card,Movies / Events
+TXN00191,2026-02-27,Groceries payment at FreshMart,EXPENSE,836,148349.0,Groceries,UPI,FreshMart
+TXN00177,2026-02-28,Utilities payment at Electricity / Mobile,EXPENSE,1180,164329.0,Utilities,Net Banking,Electricity / Mobile
+TXN00195,2026-02-28,Education payment at Course / Books,EXPENSE,846,143674.0,Education,Net Banking,Course / Books
+SAL00199,2026-03-02,Monthly salary credit,INCOME,48037,186991.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00205,2026-03-05,Shopping payment at Retail Store,EXPENSE,2301,171062.0,Shopping,Card,Retail Store
+TXN00208,2026-03-07,Food & Dining payment at Cafe / Restaurant,EXPENSE,403,168345.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00210,2026-03-09,Transport payment at Ride / Fuel,EXPENSE,1526,165735.0,Transport,UPI,Ride / Fuel
+SUB00226,2026-03-09,Streaming subscription,EXPENSE,499,143425.0,Subscriptions,Card,StreamPlus
+TXN00213,2026-03-09,Healthcare payment at Pharmacy / Clinic,EXPENSE,505,162950.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00202,2026-03-10,Shopping payment at Retail Store,EXPENSE,3579,179866.0,Shopping,Card,Retail Store
+TXN00204,2026-03-10,Education payment at Course / Books,EXPENSE,2867,173363.0,Education,Net Banking,Course / Books
+TXN00218,2026-03-10,Utilities payment at Electricity / Mobile,EXPENSE,1299,154042.0,Utilities,Net Banking,Electricity / Mobile
+TXN00206,2026-03-11,Shopping payment at Retail Store,EXPENSE,1460,169602.0,Shopping,Card,Retail Store
+TXN00216,2026-03-12,Groceries payment at FreshMart,EXPENSE,1840,157307.0,Groceries,UPI,FreshMart
+TXN00220,2026-03-13,Groceries payment at FreshMart,EXPENSE,1992,149765.0,Groceries,UPI,FreshMart
+TXN00211,2026-03-16,Food & Dining payment at Cafe / Restaurant,EXPENSE,969,164766.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00225,2026-03-17,Healthcare payment at Pharmacy / Clinic,EXPENSE,805,143924.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00221,2026-03-17,Healthcare payment at Pharmacy / Clinic,EXPENSE,926,148839.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00200,2026-03-17,Healthcare payment at Pharmacy / Clinic,EXPENSE,2494,184497.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00212,2026-03-17,Entertainment payment at Movies / Events,EXPENSE,1311,163455.0,Entertainment,Card,Movies / Events
+TXN00201,2026-03-17,Transport payment at Ride / Fuel,EXPENSE,1052,183445.0,Transport,UPI,Ride / Fuel
+TXN00215,2026-03-18,Groceries payment at FreshMart,EXPENSE,1958,159147.0,Groceries,UPI,FreshMart
+TXN00219,2026-03-18,Shopping payment at Retail Store,EXPENSE,2285,151757.0,Shopping,Card,Retail Store
+TXN00217,2026-03-20,Healthcare payment at Pharmacy / Clinic,EXPENSE,1966,155341.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00207,2026-03-20,Entertainment payment at Movies / Events,EXPENSE,854,168748.0,Entertainment,Card,Movies / Events
+TXN00222,2026-03-20,Transport payment at Ride / Fuel,EXPENSE,1354,147485.0,Transport,UPI,Ride / Fuel
+TXN00223,2026-03-21,Groceries payment at FreshMart,EXPENSE,2013,145472.0,Groceries,UPI,FreshMart
+TXN00224,2026-03-23,Groceries payment at FreshMart,EXPENSE,743,144729.0,Groceries,UPI,FreshMart
+TXN00209,2026-03-25,Utilities payment at Electricity / Mobile,EXPENSE,1084,167261.0,Utilities,Net Banking,Electricity / Mobile
+TXN00203,2026-03-27,Shopping payment at Retail Store,EXPENSE,3636,176230.0,Shopping,Card,Retail Store
+TXN00214,2026-03-27,Healthcare payment at Pharmacy / Clinic,EXPENSE,1845,161105.0,Healthcare,UPI,Pharmacy / Clinic
+SAL00227,2026-04-02,Monthly salary credit,INCOME,40977,184402.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00243,2026-04-03,Food & Dining payment at Cafe / Restaurant,EXPENSE,1305,161036.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00232,2026-04-05,Shopping payment at Retail Store,EXPENSE,3919,171862.0,Shopping,Card,Retail Store
+TXN00236,2026-04-09,Groceries payment at FreshMart,EXPENSE,1412,168036.0,Groceries,UPI,FreshMart
+TXN00239,2026-04-09,Food & Dining payment at Cafe / Restaurant,EXPENSE,1275,164688.0,Food & Dining,UPI,Cafe / Restaurant
+SUB00246,2026-04-09,Streaming subscription,EXPENSE,499,155805.0,Subscriptions,Card,StreamPlus
+TXN00234,2026-04-10,Groceries payment at FreshMart,EXPENSE,1833,169650.0,Groceries,UPI,FreshMart
+TXN00237,2026-04-10,Groceries payment at FreshMart,EXPENSE,1024,167012.0,Groceries,UPI,FreshMart
+TXN00242,2026-04-12,Food & Dining payment at Cafe / Restaurant,EXPENSE,455,162341.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00229,2026-04-13,Utilities payment at Electricity / Mobile,EXPENSE,1231,181119.0,Utilities,Net Banking,Electricity / Mobile
+TXN00228,2026-04-13,Shopping payment at Retail Store,EXPENSE,2052,182350.0,Shopping,Card,Retail Store
+TXN00230,2026-04-15,Entertainment payment at Movies / Events,EXPENSE,1758,179361.0,Entertainment,Card,Movies / Events
+TXN00231,2026-04-16,Shopping payment at Retail Store,EXPENSE,3580,175781.0,Shopping,Card,Retail Store
+TXN00241,2026-04-22,Entertainment payment at Movies / Events,EXPENSE,543,162796.0,Entertainment,Card,Movies / Events
+TXN00238,2026-04-24,Transport payment at Ride / Fuel,EXPENSE,1049,165963.0,Transport,UPI,Ride / Fuel
+TXN00244,2026-04-24,Shopping payment at Retail Store,EXPENSE,2858,158178.0,Shopping,Card,Retail Store
+TXN00245,2026-04-25,Healthcare payment at Pharmacy / Clinic,EXPENSE,1874,156304.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00233,2026-04-26,Education payment at Course / Books,EXPENSE,379,171483.0,Education,Net Banking,Course / Books
+TXN00235,2026-04-27,Food & Dining payment at Cafe / Restaurant,EXPENSE,202,169448.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00240,2026-04-27,Education payment at Course / Books,EXPENSE,1349,163339.0,Education,Net Banking,Course / Books
+SAL00247,2026-05-02,Monthly salary credit,INCOME,41249,197054.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00262,2026-05-03,Healthcare payment at Pharmacy / Clinic,EXPENSE,1627,173067.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00266,2026-05-03,Shopping payment at Retail Store,EXPENSE,2776,165598.0,Shopping,Card,Retail Store
+TXN00252,2026-05-05,Healthcare payment at Pharmacy / Clinic,EXPENSE,1767,187696.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00256,2026-05-08,Transport payment at Ride / Fuel,EXPENSE,971,184267.0,Transport,UPI,Ride / Fuel
+TXN00263,2026-05-08,Education payment at Course / Books,EXPENSE,1631,171436.0,Education,Net Banking,Course / Books
+SUB00267,2026-05-09,Streaming subscription,EXPENSE,499,165099.0,Subscriptions,Card,StreamPlus
+TXN00259,2026-05-10,Shopping payment at Retail Store,EXPENSE,1820,177221.0,Shopping,Card,Retail Store
+TXN00265,2026-05-11,Shopping payment at Retail Store,EXPENSE,1894,168374.0,Shopping,Card,Retail Store
+TXN00264,2026-05-14,Education payment at Course / Books,EXPENSE,1168,170268.0,Education,Net Banking,Course / Books
+TXN00253,2026-05-16,Entertainment payment at Movies / Events,EXPENSE,225,187471.0,Entertainment,Card,Movies / Events
+TXN00254,2026-05-16,Education payment at Course / Books,EXPENSE,732,186739.0,Education,Net Banking,Course / Books
+TXN00258,2026-05-16,Education payment at Course / Books,EXPENSE,2204,179041.0,Education,Net Banking,Course / Books
+TXN00255,2026-05-17,Entertainment payment at Movies / Events,EXPENSE,1501,185238.0,Entertainment,Card,Movies / Events
+TXN00260,2026-05-17,Food & Dining payment at Cafe / Restaurant,EXPENSE,691,176530.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00261,2026-05-17,Utilities payment at Electricity / Mobile,EXPENSE,1836,174694.0,Utilities,Net Banking,Electricity / Mobile
+TXN00251,2026-05-20,Groceries payment at FreshMart,EXPENSE,1822,189463.0,Groceries,UPI,FreshMart
+TXN00249,2026-05-24,Shopping payment at Retail Store,EXPENSE,3982,192564.0,Shopping,Card,Retail Store
+TXN00248,2026-05-25,Utilities payment at Electricity / Mobile,EXPENSE,508,196546.0,Utilities,Net Banking,Electricity / Mobile
+TXN00250,2026-05-28,Food & Dining payment at Cafe / Restaurant,EXPENSE,1279,191285.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00257,2026-05-28,Shopping payment at Retail Store,EXPENSE,3022,181245.0,Shopping,Card,Retail Store
+SAL00268,2026-06-02,Monthly salary credit,INCOME,46464,211563.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00286,2026-06-03,Transport payment at Ride / Fuel,EXPENSE,699,190109.0,Transport,UPI,Ride / Fuel
+TXN00287,2026-06-04,Transport payment at Ride / Fuel,EXPENSE,641,189468.0,Transport,UPI,Ride / Fuel
+TXN00280,2026-06-06,Shopping payment at Retail Store,EXPENSE,1444,196000.0,Shopping,Card,Retail Store
+TXN00281,2026-06-06,Utilities payment at Electricity / Mobile,EXPENSE,946,195054.0,Utilities,Net Banking,Electricity / Mobile
+TXN00284,2026-06-09,Shopping payment at Retail Store,EXPENSE,911,192239.0,Shopping,Card,Retail Store
+TXN00282,2026-06-09,Transport payment at Ride / Fuel,EXPENSE,472,194582.0,Transport,UPI,Ride / Fuel
+SUB00290,2026-06-09,Streaming subscription,EXPENSE,499,185987.0,Subscriptions,Card,StreamPlus
+TXN00273,2026-06-12,Groceries payment at FreshMart,EXPENSE,781,204068.0,Groceries,UPI,FreshMart
+TXN00279,2026-06-12,Education payment at Course / Books,EXPENSE,1409,197444.0,Education,Net Banking,Course / Books
+TXN00285,2026-06-14,Shopping payment at Retail Store,EXPENSE,1431,190808.0,Shopping,Card,Retail Store
+TXN00271,2026-06-18,Utilities payment at Electricity / Mobile,EXPENSE,1714,206984.0,Utilities,Net Banking,Electricity / Mobile
+TXN00276,2026-06-20,Entertainment payment at Movies / Events,EXPENSE,1169,200844.0,Entertainment,Card,Movies / Events
+TXN00270,2026-06-20,Healthcare payment at Pharmacy / Clinic,EXPENSE,2251,208698.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00275,2026-06-24,Utilities payment at Electricity / Mobile,EXPENSE,927,202013.0,Utilities,Net Banking,Electricity / Mobile
+TXN00274,2026-06-25,Utilities payment at Electricity / Mobile,EXPENSE,1128,202940.0,Utilities,Net Banking,Electricity / Mobile
+TXN00288,2026-06-25,Groceries payment at FreshMart,EXPENSE,1596,187872.0,Groceries,UPI,FreshMart
+TXN00278,2026-06-25,Entertainment payment at Movies / Events,EXPENSE,920,198853.0,Entertainment,Card,Movies / Events
+TXN00277,2026-06-26,Entertainment payment at Movies / Events,EXPENSE,1071,199773.0,Entertainment,Card,Movies / Events
+TXN00283,2026-06-26,Education payment at Course / Books,EXPENSE,1432,193150.0,Education,Net Banking,Course / Books
+TXN00269,2026-06-26,Food & Dining payment at Cafe / Restaurant,EXPENSE,614,210949.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00289,2026-06-27,Transport payment at Ride / Fuel,EXPENSE,1386,186486.0,Transport,UPI,Ride / Fuel
+TXN00272,2026-06-28,Education payment at Course / Books,EXPENSE,2135,204849.0,Education,Net Banking,Course / Books
+SAL00291,2026-07-02,Monthly salary credit,INCOME,46042,232029.0,Salary,NEFT/IMPS/RTGS,Employer
+TXN00308,2026-07-03,Food & Dining payment at Cafe / Restaurant,EXPENSE,440,206619.0,Food & Dining,UPI,Cafe / Restaurant
+TXN00310,2026-07-04,Education payment at Course / Books,EXPENSE,1492,203032.0,Education,Net Banking,Course / Books
+TXN00295,2026-07-05,Education payment at Course / Books,EXPENSE,767,227409.0,Education,Net Banking,Course / Books
+TXN00296,2026-07-05,Healthcare payment at Pharmacy / Clinic,EXPENSE,2264,225145.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00306,2026-07-05,Shopping payment at Retail Store,EXPENSE,3205,207630.0,Shopping,Card,Retail Store
+TXN00297,2026-07-07,Groceries payment at FreshMart,EXPENSE,1021,224124.0,Groceries,UPI,FreshMart
+TXN00307,2026-07-08,Transport payment at Ride / Fuel,EXPENSE,571,207059.0,Transport,UPI,Ride / Fuel
+SUB00311,2026-07-09,Streaming subscription,EXPENSE,499,202533.0,Subscriptions,Card,StreamPlus
+TXN00305,2026-07-09,Utilities payment at Electricity / Mobile,EXPENSE,1581,210835.0,Utilities,Net Banking,Electricity / Mobile
+TXN00298,2026-07-10,Shopping payment at Retail Store,EXPENSE,848,223276.0,Shopping,Card,Retail Store
+TXN00294,2026-07-11,Transport payment at Ride / Fuel,EXPENSE,185,228176.0,Transport,UPI,Ride / Fuel
+TXN00293,2026-07-13,Education payment at Course / Books,EXPENSE,2104,228361.0,Education,Net Banking,Course / Books
+TXN00301,2026-07-17,Healthcare payment at Pharmacy / Clinic,EXPENSE,2095,218745.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00292,2026-07-18,Groceries payment at FreshMart,EXPENSE,1564,230465.0,Groceries,UPI,FreshMart
+TXN00303,2026-07-21,Healthcare payment at Pharmacy / Clinic,EXPENSE,1500,213222.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00302,2026-07-21,Shopping payment at Retail Store,EXPENSE,4023,214722.0,Shopping,Card,Retail Store
+TXN00309,2026-07-25,Healthcare payment at Pharmacy / Clinic,EXPENSE,2095,204524.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00304,2026-07-27,Groceries payment at FreshMart,EXPENSE,806,212416.0,Groceries,UPI,FreshMart
+TXN00300,2026-07-27,Healthcare payment at Pharmacy / Clinic,EXPENSE,1174,220840.0,Healthcare,UPI,Pharmacy / Clinic
+TXN00299,2026-07-27,Food & Dining payment at Cafe / Restaurant,EXPENSE,1262,222014.0,Food & Dining,UPI,Cafe / Restaurant

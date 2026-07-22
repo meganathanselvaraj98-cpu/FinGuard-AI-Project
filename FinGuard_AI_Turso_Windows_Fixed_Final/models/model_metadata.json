@@ -1,0 +1,50 @@
+{
+  "expense_category_classifier.joblib": {
+    "training_data": "240 synthetic labelled transaction descriptions",
+    "generated_at": "2026-07-15T17:51:11.738098+00:00",
+    "features": [
+      "description"
+    ],
+    "estimator": "TF-IDF + Logistic Regression"
+  },
+  "monthly_expense_predictor.joblib": {
+    "training_data": "60 synthetic monthly observations",
+    "generated_at": "2026-07-15T17:51:11.738098+00:00",
+    "features": [
+      "month_index",
+      "income",
+      "previous_expense"
+    ],
+    "estimator": "Random Forest Regressor"
+  },
+  "savings_predictor.joblib": {
+    "training_data": "80 synthetic monthly observations",
+    "generated_at": "2026-07-15T17:51:11.738098+00:00",
+    "features": [
+      "income",
+      "expense",
+      "recurring_expense"
+    ],
+    "estimator": "Random Forest Regressor"
+  },
+  "financial_risk_classifier.joblib": {
+    "training_data": "300 synthetic transaction-risk observations",
+    "generated_at": "2026-07-15T17:51:11.738098+00:00",
+    "features": [
+      "amount",
+      "is_expense",
+      "is_unusual",
+      "hour"
+    ],
+    "estimator": "Random Forest Classifier",
+    "label_note": "Rule-assisted synthetic labels for academic demonstration"
+  },
+  "anomaly_detector.joblib": {
+    "training_data": "260 synthetic normal-expense observations",
+    "generated_at": "2026-07-15T17:51:11.738098+00:00",
+    "features": [
+      "amount"
+    ],
+    "estimator": "Isolation Forest"
+  }
+}

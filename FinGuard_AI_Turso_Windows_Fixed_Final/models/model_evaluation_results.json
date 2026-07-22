@@ -1,0 +1,26 @@
+{
+  "expense_category_classifier.joblib": {
+    "accuracy": 1.0,
+    "precision_weighted": 1.0,
+    "recall_weighted": 1.0,
+    "f1_weighted": 1.0
+  },
+  "monthly_expense_predictor.joblib": {
+    "mae": 903.49,
+    "rmse": 1153.19
+  },
+  "savings_predictor.joblib": {
+    "mae": 8236.79,
+    "rmse": 10227.17
+  },
+  "financial_risk_classifier.joblib": {
+    "accuracy": 1.0,
+    "precision_weighted": 1.0,
+    "recall_weighted": 1.0,
+    "f1_weighted": 1.0
+  },
+  "anomaly_detector.joblib": {
+    "normal_acceptance_rate": 0.95,
+    "known_outlier_detection_rate": 1.0
+  }
+}
